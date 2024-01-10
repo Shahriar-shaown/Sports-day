@@ -1,0 +1,10 @@
+.header{
+    display: flex;
+    margin: 20px;
+    background-color: whitesmoke;
+    color: blueviolet;
+}
+.header .icon{
+    margin-top: 20px;
+    margin-right: 10px;
+}

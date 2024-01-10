@@ -1,0 +1,18 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 50px;
+    margin-left: 20px;
+    margin: 20px;
+}
+.cart-container{
+    background-color: rgb(235, 223, 235);
+    border-radius: 15px;
+    padding: 10px;
+}
+.sport{
+    padding-top: -20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+}

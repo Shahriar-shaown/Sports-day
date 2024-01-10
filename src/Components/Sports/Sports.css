@@ -1,0 +1,26 @@
+.image{
+    width: 256px;
+    height: 170.687px;
+    flex-shrink: 0;
+    border-radius: 10px;
+}
+.sports{
+    width: 252px;
+    height: 349px;
+    padding: 10px;
+    background-color: yellowgreen;
+    border: 2px solid gray;
+    border-radius: 7px;
+}
+.addtolist{
+    height: 30px;
+    width: 250px;
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid salmon;
+    border-radius: 10px;
+}
+.addtolist:hover{
+    color: aliceblue;
+    background-color: brown;
+}
